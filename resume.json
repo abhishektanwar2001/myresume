@@ -1,125 +1,155 @@
 {
-	"basics": {
-		"name": "Abhishek Tanwar",
-		"label": "Student",
-		"picture": "https://avatars.githubusercontent.com/u/64183205?v=4",
-		"email": "2019kucp1025@iiitkota.ac.in",
-		"phone": "8607251940",
-		"website": "",
-		"summary": "I am a Designer, an Illustrator, a Speaker, and an Author. Ocassionally, I've been known to wear 'musician' hat, too. I maintain a healthy balance between "functionality" and "visual impact" in all my work. I believe every piece of design can be a work of art.",
-		"location": {
-			"address": "House No:1387, Sector-7, Housing Board Colony, Bahadurgarh",
-			"postalCode": "124507",
-			"city": "Bahadurgarh",
-			"countryCode": "India",
-			"region": "Haryana"
-		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "abhishek8607251",
-				"url": "https://twitter.com/abhishek8607251"
-			},
-			{
-				"network": "Github",
-				"username": "abhishektanwar2001",
-				"url": "https://github.com/abhishektanwar2001"
-			},
-			{
-				"network": "linkedin",
-				"username": "abhishek-tanwar-9337961ba",
-				"url": "https://www.linkedin.com/in/abhishek-tanwar-9337961ba/"
-			},
-			{
-				"network": "Instagram",
-				"username": "__abhishektanwar",
-				"url": "https://www.instagram.com/__abhishektanwar/"
-			}
-		]
-	},
-	"work": [{
-		"company": "The Sparks Foundation",
-		"position": "Web Developer",
-		"website": "",
-		"startDate": "2021-06-01",
-		"endDate": "2021-06-21",
-		"summary": "",
-		"highlights": ["Had Internship for month of June,2021. Had a really great conceptual learning and developed a great website in the time frame."]
-	}
-                 {
-		"company": "LetsGrowMore",
-		"position": "Web Developer",
-		"website": "",
-		"startDate": "2021-07-02",
-		"endDate": "2021-07-28",
-		"summary": "",
-		"highlights": ["Had internship for month of July,2021. Learned new things and developed skills creating great projects and portfolio."]
-	}
-                 {
-		"company": "Goldman Sachs",
-		"position": "Project Intern",
-		"website": "",
-		"startDate": "2021-05-01",
-		"endDate": "2021-07-31",
-		"summary": "",
-		"highlights": ["A month long Virtual Programming of Engineering, we worked on crack leaked password database, Assess the level of protection offered by implemented controls and minimize the probability of a successful breach."]
-	}
-                 {
-		"company": "Accenture",
-		"position": "Project Intern",
-		"website": "",
-		"startDate": "2021-04-01",
-		"endDate": "2021-06-31",
-		"summary": "",
-		"highlights": ["Worked as Project Priorities & Planning, Outcome Analyst, Prioritisation & Impact Assessment intern for two months."]
-	}],
-        
-       
-        
-	"volunteer": [{
-		"organization": "HOPE",
-		"position": "Crowd funding",
-		"website": "",
-		"startDate": "2020-08-01",
-		"endDate": "2021-04-01",
-		"summary": "Worked part-time for crowdfunding trade and helped many people with funds.",
-		"highlights": []
-	}],
-	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
-		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2019-08-05 //Date",
-		"endDate": "2023-06-01",
-		"gpa": "7.36",
-		"courses": [
-			"Computer Science & Engineering"
-		]
-	}],
-	"awards": [{
-		"title": "Hacktoberfest",
-		"awarder": "Digital Ocean",
-		"date": "2020-11-05"
-	}
-                   {
-		"title": "Google Cloud",
-		"awarder": "Google",
-		"date": "2020-11-16"
-	}
-                    {
-		"title": "Facebook Spark AR Labs",
-		"awarder": "Spark AR Labs",
-		"date": "2021-06-29"
-	}],
-	"publications": [{
-		"title": "",
-		"details": "",
-		"link": ""
-	}],
-	"skills": [{
-		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Java", "Python", "PHP", "Azure", "Google Cloud", "SQL"]
-	}],
-	"interests": [
+    "basics": {
+        "name": "Abhishek Tanwar",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/64183205?v=4",
+        "email": "2019kucp1025@iiitkota.ac.in",
+        "phone": "8607251940",
+        "website": "---Enter Link of website(if any) ---",
+        "summary": "I am a Designer, an Illustrator, a Speaker, and an Author. Ocassionally, I've been known to wear 'musician' hat, too. I maintain a healthy balance between functionality and visual impact in all my work. I believe every piece of design can be a work of art.",
+        "location": {
+            "address": "House No:1387, Sector-7, Housing Board Colony, Bahadurgarh",
+            "postalCode": "124507",
+            "city": "Bahadurgarh",
+            "countryCode": "India",
+            "region": "Haryana"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "abhishek8607251",
+                "url": "https://twitter.com/abhishek8607251"
+            },
+            {
+                "network": "Github",
+                "username": "abhishektanwar2001",
+                "url": "https://github.com/abhishektanwar2001"
+            },
+            {
+                "network": "linkedin",
+                "username": "abhishek-tanwar-9337961ba",
+                "url": "https://www.linkedin.com/in/abhishek-tanwar-9337961ba/"
+            },
+            {
+                "network": "Instagram",
+                "username": "__abhishektanwar",
+                "url": "https://www.instagram.com/__abhishektanwar/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "The Sparks Foundation",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "2021-06-01",
+            "endDate": "2021-06-21",
+            "summary": "",
+            "highlights": [
+                "Had Internship for month of June,2021. Had a really great conceptual learning and developed a great website in the time frame."
+            ]
+        },
+        {
+            "company": "LetsGrowMore",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "2021-07-02",
+            "endDate": "2021-07-28",
+            "summary": "",
+            "highlights": [
+                "Had internship for month of July,2021. Learned new things and developed skills creating great projects and portfolio."
+            ]
+        },
+        {
+            "company": "Goldman Sachs",
+            "position": "Project Intern",
+            "website": "",
+            "startDate": "2021-05-01",
+            "endDate": "2021-07-31",
+            "summary": "",
+            "highlights": [
+                "A month long Virtual Programming of Engineering, we worked on crack leaked password database, Assess the level of protection offered by implemented controls and minimize the probability of a successful breach."
+            ]
+        },
+        {
+            "company": "Accenture",
+            "position": "Project Intern",
+            "website": "",
+            "startDate": "2021-04-01",
+            "endDate": "2021-06-31",
+            "summary": "",
+            "highlights": [
+                "Worked as Project Priorities & Planning, Outcome Analyst, Prioritisation & Impact Assessment intern for two months."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "HOPE",
+            "position": "Crowd funding",
+            "website": "",
+            "startDate": "2020-08-01",
+            "endDate": "2021-04-01",
+            "summary": "Worked part-time for crowdfunding trade and helped many people with funds.",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information technology,kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "2019-08-05 //Date",
+            "endDate": "2023-06-01",
+            "gpa": "7.36",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Hacktoberfest",
+            "awarder": "Digital Ocean",
+            "date": "2020-11-05"
+        },
+        {
+            "title": "Google Cloud",
+            "awarder": "Google",
+            "date": "2020-11-16"
+        },
+        {
+            "title": "Facebook Spark AR Labs",
+            "awarder": "Spark AR Labs",
+            "date": "2021-06-29"
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "C/C++",
+                "Java",
+                "Python",
+                "PHP",
+                "Azure",
+                "Google Cloud",
+                "SQL"
+            ]
+        }
+    ],
+    "interests": [
         {
             "name": "Sports",
             "keywords": [
@@ -137,5 +167,5 @@
             ]
         }
     ],
-	"references": []
+    "references": []
 }
