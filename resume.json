@@ -40,7 +40,7 @@
 		"company": "The Sparks Foundation",
 		"position": "Web Developer",
 		"website": "",
-		"startDate": "2021-06-01//Take care about Date Format",
+		"startDate": "2021-06-01",
 		"endDate": "2021-06-21",
 		"summary": "",
 		"highlights": ["Had Internship for month of June,2021. Had a really great conceptual learning and developed a great website in the time frame."]
@@ -49,7 +49,7 @@
 		"company": "LetsGrowMore",
 		"position": "Web Developer",
 		"website": "",
-		"startDate": "2021-07-02//Take care about Date Format",
+		"startDate": "2021-07-02",
 		"endDate": "2021-07-28",
 		"summary": "",
 		"highlights": ["Had internship for month of July,2021. Learned new things and developed skills creating great projects and portfolio."]
@@ -58,7 +58,7 @@
 		"company": "Goldman Sachs",
 		"position": "Project Intern",
 		"website": "",
-		"startDate": "2021-05-01//Take care about Date Format",
+		"startDate": "2021-05-01",
 		"endDate": "2021-07-31",
 		"summary": "",
 		"highlights": ["A month long Virtual Programming of Engineering, we worked on crack leaked password database, Assess the level of protection offered by implemented controls and minimize the probability of a successful breach."]
@@ -67,7 +67,7 @@
 		"company": "Accenture",
 		"position": "Project Intern",
 		"website": "",
-		"startDate": "2021-04-01//Take care about Date Format",
+		"startDate": "2021-04-01",
 		"endDate": "2021-06-31",
 		"summary": "",
 		"highlights": ["Worked as Project Priorities & Planning, Outcome Analyst, Prioritisation & Impact Assessment intern for two months."]
@@ -79,7 +79,7 @@
 		"organization": "HOPE",
 		"position": "Crowd funding",
 		"website": "",
-		"startDate": "2020-08-01 // Note Date Format",
+		"startDate": "2020-08-01",
 		"endDate": "2021-04-01",
 		"summary": "Worked part-time for crowdfunding trade and helped many people with funds.",
 		"highlights": []
@@ -98,17 +98,17 @@
 	"awards": [{
 		"title": "Hacktoberfest",
 		"awarder": "Digital Ocean",
-		"date": "2020-11-05//Date"
+		"date": "2020-11-05"
 	}
                    {
 		"title": "Google Cloud",
 		"awarder": "Google",
-		"date": "2020-11-16//Date"
+		"date": "2020-11-16"
 	}
                     {
 		"title": "Facebook Spark AR Labs",
 		"awarder": "Spark AR Labs",
-		"date": "2021-06-29//Date"
+		"date": "2021-06-29"
 	}],
 	"publications": [{
 		"title": "",
@@ -121,7 +121,7 @@
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Football", "Cricket", "Athletics", "Chess"]
+		"keywords": ["Football", "Cricket", "Athletics", "Chess"],
                 "name": "Singing",
 		"keywords": ["Rapping", "Drums"]
 	}],
